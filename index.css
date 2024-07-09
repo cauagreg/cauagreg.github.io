@@ -64,3 +64,13 @@ td {
 .button:hover {
     background-color:darkgoldenrod; /* Amarelo mais escuro ao passar o mouse */
 }
+
+.sobre-mim {
+    display:flex;
+    align-items:center;
+}
+.sobre-mim img {
+    width: 120px;
+    height: 120px;
+    margin-right: 30px;
+}
