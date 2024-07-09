@@ -3,7 +3,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #000000; /* Preto */
+    background-color: #f0e9c3; /* Amarelo Suave */
     color: #333333; /* Preto Suave */
 }
 
@@ -12,7 +12,7 @@ h1, h2, h3 {
 }
 
 header {
-    background-color: #FFF2A6; /* Amarelo Pastel */
+    background-color:whitesmoke; /* Branco */
     color: #000000; /* Preto */
     padding: 1rem 0;
     text-align: center;
@@ -28,14 +28,11 @@ header h1 {
     padding: 2rem;
 }
 
-.highlight {
-    color: #FF6347; /* Vermelho Tomate */
-}
 
-.blue-background {
-    background-color: #ADD8E6; /* Azul Pastel */
+.whi-background {
+    background-color:whitesmoke; /* Branco */
     padding: 1rem;
-    color: #FFFFFF; /* Branco */
+    color: #000000; /* Preto */
     margin-bottom: 1rem;
 }
 
@@ -58,12 +55,12 @@ td {
 .button {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #f04c2f; /* Vermelho */
-    color: white;
+    background-color: #f3df6f; /* Amarelo */
+    color: rgb(0, 0, 0);
     text-decoration: none;
     border-radius: 5px;
-    transition: background-color 0.3s ease;
+
 }
 .button:hover {
-    background-color: #910707; /* Vermelho mais escuro ao passar o mouse */
+    background-color:darkgoldenrod; /* Amarelo mais escuro ao passar o mouse */
 }
